@@ -1,3 +1,2 @@
 # profile-portfolio
-this is my first repository.<br>
-author -kv mithun
+this is my first repository
